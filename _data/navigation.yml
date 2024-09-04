@@ -1,15 +1,14 @@
 # main links links
 main:
-
+    - title: "CV"
+    url: /cv/
+    
   - title: "Research"
     url: /Research/
-
-  - title: "CV"
-    url: /files/Katovich_CV.pdf
 
   - title: "Data and Code"
     url: /datacode/    
     
-  - title: "Contact"
-    url: /contact/
+#  - title: "Contact"
+ #   url: /contact/
        
